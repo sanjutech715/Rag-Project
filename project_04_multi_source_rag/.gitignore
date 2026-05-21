@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Data files (add yours locally)
+*.pdf
+*.csv
+
+# FAISS index
+*.index
+faiss_store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
